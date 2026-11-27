@@ -1,0 +1,13 @@
+ratio,comparison,balanced_accuracy
+70_30,genuine vs forged (both real),0.6618
+70_30,real vs cgan,0.7549
+70_30,real vs wgan_gp,0.8051
+70_30,real vs ddpm,0.8058
+60_40,genuine vs forged (both real),0.6288
+60_40,real vs cgan,0.7609
+60_40,real vs wgan_gp,0.7793
+60_40,real vs ddpm,0.7642
+80_20,genuine vs forged (both real),0.6117
+80_20,real vs cgan,0.7595
+80_20,real vs wgan_gp,0.8182
+80_20,real vs ddpm,0.8182
